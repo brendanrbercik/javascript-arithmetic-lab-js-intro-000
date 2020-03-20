@@ -26,5 +26,5 @@ function decrement(a) {
 
 function makeInt(n) {
   var n = 6.666
-  parseInt ('n', 10);
+  parseInt (n, 10);
 }
