@@ -2,7 +2,7 @@ a = Math.floor(Math.random())
 b = Math.floor(Math.random())
 
 function add() {
-  return a + b;
+  return a+=;
 }
 
 function subtract() {}
