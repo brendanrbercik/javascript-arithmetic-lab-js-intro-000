@@ -1,6 +1,8 @@
+a = Math.floor(Math.random())
+b = Math.floor(Math.random())
+
 function add() {
-  var number = 5;
-  number++;
+  return a + b;
 }
 
 function subtract() {}
