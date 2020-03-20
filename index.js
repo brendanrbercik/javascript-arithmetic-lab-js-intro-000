@@ -1,3 +1,5 @@
+n = 69.69696969
+
 function add(a,b) {
   return a += b
 }
@@ -24,9 +26,9 @@ function decrement(a) {
   return a;
 }
 
-function makeInt(a) {
-  parseInt ('a', 10)
-  return a
+function makeInt(n) {
+  parseInt ('n', 10)
+  return n
 }
 
 function preserveDecimal(a) {
