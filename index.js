@@ -15,8 +15,7 @@ function divide(a,b) {
 }
 
 function increment(a) {
-  var dibby = 1;
-  a += dibby;
+  a +=;
   return a;
 }
 
