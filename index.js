@@ -25,11 +25,11 @@ function decrement(a) {
 }
 
 function makeInt(a) {
-  parseInt ('a');
-  return a;
+  var n = parseInt ('a');
+  return n;
 }
 
 function preserveDecimal(a) {
-  parseFloat('a');
-  return a;
+  var n = parseFloat('a');
+  return n;
 }
