@@ -20,6 +20,6 @@ function increment(a) {
 }
 
 function decrement(a) {
-  a += 1;
+  a -= 1;
   return a;
 }
