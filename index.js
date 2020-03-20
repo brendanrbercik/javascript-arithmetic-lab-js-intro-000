@@ -24,8 +24,7 @@ function decrement(a) {
   return a;
 }
 
-function makeInt(a) {
-  parseInt ('a', 10);
-  parseInt ('4.55555', 10);
-  parseInt ('nonsense', 10);
+function makeInt(n) {
+  var n = 6.666
+  parseInt ('n', 10);
 }
